@@ -11,6 +11,7 @@ git clone https://github.com/WLDluv-stack/dotfiles.git ~/dotfiles
 cd ~/dotfiles
 ./install.sh
 
+```bash
 ## captura
 
 
