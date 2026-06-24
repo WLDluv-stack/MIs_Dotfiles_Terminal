@@ -2,7 +2,7 @@
 
 Mi personalización personal para la terminal utilizando Kitty y Zsh.
 
-## nstalación rápida
+## instalación rápida
 
 Para clonar y aplicar esta configuración en un sistema limpio, ejecuta:
 
